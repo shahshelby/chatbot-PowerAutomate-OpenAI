@@ -2,7 +2,9 @@
 
 ## Overview
 
-This repository contains a Microsoft Power Automate flow for integrating a chatbot with OpenAI using HTTP requests and the OpenAI API key. Please note that I do not own this flow; it is sourced from the internet as an open-source project.
+This repository contains a Microsoft Power Automate flow for integrating a chatbot with OpenAI using HTTP requests and the OpenAI API key. Please note that I do not own this flow; 
+it is sourced from youtube video by Denis Molodtsov
+https://www.youtube.com/watch?v=nLG0AJF0wSw&t=152s
 
 ## Importing the Flow
 
@@ -22,5 +24,5 @@ Feel free to customize the flow based on your specific needs and requirements.
 
 **Note:** Ensure sensitive information, such as API keys, is handled securely.
 
-For any issues or questions related to this flow, please refer to the original source or [create an issue](link-to-issues) in this repository.
-https://www.youtube.com/watch?v=nLG0AJF0wSw&t=152s
+For any issues or questions related to this flow, please refer to the original source.
+
